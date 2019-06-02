@@ -6,7 +6,5 @@ public class Demo {
         System.out.println("This is class Demo");
 
         System.out.println("Add in second commit");
-
-        System.out.println("reseet the version test");
     }
 }
