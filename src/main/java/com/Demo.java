@@ -8,5 +8,7 @@ public class Demo {
         System.out.println("Add in second commit");
 
         System.out.println("Test Compare commit on master");
+
+        System.out.println("Test Compare commit on master--second");
     }
 }
